@@ -4,6 +4,7 @@
 ### Also Im going to add a commit message that describes the changes I made to the file.
 
 
+![ AI generated image of colorful robots](https://github.com/HosseinHakim/skills-communicate-using-markdown/assets/150718871/da3ce712-fa33-42fd-a57b-f519c96f16d4)
 
 
 
@@ -14,8 +15,3 @@
 
 
 
-
-
-
-
-Commit messege: I added 3 Headers to this File.
