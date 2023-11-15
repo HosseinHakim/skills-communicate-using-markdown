@@ -7,8 +7,10 @@
 ![ AI generated image of colorful robots](https://github.com/HosseinHakim/skills-communicate-using-markdown/assets/150718871/da3ce712-fa33-42fd-a57b-f519c96f16d4)
 
 
-
-
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
 
 
